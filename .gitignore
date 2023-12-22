@@ -3,6 +3,5 @@ cache
 .venv
 data/prod*
 hardcoded_data
-experiments
 tmp
 .env
