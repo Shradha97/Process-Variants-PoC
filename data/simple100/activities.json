@@ -1,0 +1,3912 @@
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531977"
+    },
+    "event_time": "2023-12-11T21:30:24.514852",
+    "unique_id": {
+        "CaseID": "C1"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531978"
+    },
+    "event_time": "2023-12-11T21:29:29.514874",
+    "unique_id": {
+        "CaseID": "C1"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531979"
+    },
+    "event_time": "2023-12-11T21:29:30.514882",
+    "unique_id": {
+        "CaseID": "C1"
+    },
+    "processing_time": "37"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa053197a"
+    },
+    "event_time": "2023-12-11T21:30:26.514888",
+    "unique_id": {
+        "CaseID": "C1"
+    },
+    "processing_time": "48"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa053197b"
+    },
+    "event_time": "2023-12-11T21:30:22.514897",
+    "unique_id": {
+        "CaseID": "C2"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa053197c"
+    },
+    "event_time": "2023-12-11T21:28:32.514903",
+    "unique_id": {
+        "CaseID": "C2"
+    },
+    "processing_time": "11"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa053197d"
+    },
+    "event_time": "2023-12-11T21:30:26.514909",
+    "unique_id": {
+        "CaseID": "C2"
+    },
+    "processing_time": "5"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa053197e"
+    },
+    "event_time": "2023-12-11T21:30:26.514922",
+    "unique_id": {
+        "CaseID": "C3"
+    },
+    "processing_time": "29"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa053197f"
+    },
+    "event_time": "2023-12-11T21:29:29.514928",
+    "unique_id": {
+        "CaseID": "C3"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531980"
+    },
+    "event_time": "2023-12-11T21:29:30.514934",
+    "unique_id": {
+        "CaseID": "C3"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531981"
+    },
+    "event_time": "2023-12-11T21:30:25.514940",
+    "unique_id": {
+        "CaseID": "C3"
+    },
+    "processing_time": "15"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531982"
+    },
+    "event_time": "2023-12-11T21:28:23.514949",
+    "unique_id": {
+        "CaseID": "C4"
+    },
+    "processing_time": "43"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531983"
+    },
+    "event_time": "2023-12-11T21:29:32.514960",
+    "unique_id": {
+        "CaseID": "C4"
+    },
+    "processing_time": "35"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531984"
+    },
+    "event_time": "2023-12-11T21:28:32.514968",
+    "unique_id": {
+        "CaseID": "C4"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531985"
+    },
+    "event_time": "2023-12-11T21:30:34.514974",
+    "unique_id": {
+        "CaseID": "C4"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531986"
+    },
+    "event_time": "2023-12-11T21:29:23.514981",
+    "unique_id": {
+        "CaseID": "C5"
+    },
+    "processing_time": "48"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531987"
+    },
+    "event_time": "2023-12-11T21:29:26.514987",
+    "unique_id": {
+        "CaseID": "C5"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531988"
+    },
+    "event_time": "2023-12-11T21:28:28.514996",
+    "unique_id": {
+        "CaseID": "C6"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531989"
+    },
+    "event_time": "2023-12-11T21:29:25.515002",
+    "unique_id": {
+        "CaseID": "C6"
+    },
+    "processing_time": "35"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa053198a"
+    },
+    "event_time": "2023-12-11T21:29:33.515013",
+    "unique_id": {
+        "CaseID": "C6"
+    },
+    "processing_time": "39"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa053198b"
+    },
+    "event_time": "2023-12-11T21:29:30.515018",
+    "unique_id": {
+        "CaseID": "C6"
+    },
+    "processing_time": "39"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa053198c"
+    },
+    "event_time": "2023-12-11T21:30:31.515025",
+    "unique_id": {
+        "CaseID": "C7"
+    },
+    "processing_time": "15"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa053198d"
+    },
+    "event_time": "2023-12-11T21:28:33.515031",
+    "unique_id": {
+        "CaseID": "C7"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa053198e"
+    },
+    "event_time": "2023-12-11T21:28:34.515039",
+    "unique_id": {
+        "CaseID": "C7"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa053198f"
+    },
+    "event_time": "2023-12-11T21:29:24.515048",
+    "unique_id": {
+        "CaseID": "C8"
+    },
+    "processing_time": "42"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531990"
+    },
+    "event_time": "2023-12-11T21:29:31.515054",
+    "unique_id": {
+        "CaseID": "C8"
+    },
+    "processing_time": "38"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531991"
+    },
+    "event_time": "2023-12-11T21:28:27.515062",
+    "unique_id": {
+        "CaseID": "C8"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531992"
+    },
+    "event_time": "2023-12-11T21:29:29.515068",
+    "unique_id": {
+        "CaseID": "C8"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531993"
+    },
+    "event_time": "2023-12-11T21:28:31.515077",
+    "unique_id": {
+        "CaseID": "C9"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531994"
+    },
+    "event_time": "2023-12-11T21:29:27.515086",
+    "unique_id": {
+        "CaseID": "C9"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531995"
+    },
+    "event_time": "2023-12-11T21:29:22.515092",
+    "unique_id": {
+        "CaseID": "C10"
+    },
+    "processing_time": "26"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531996"
+    },
+    "event_time": "2023-12-11T21:30:26.515098",
+    "unique_id": {
+        "CaseID": "C10"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531997"
+    },
+    "event_time": "2023-12-11T21:29:27.515108",
+    "unique_id": {
+        "CaseID": "C11"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531998"
+    },
+    "event_time": "2023-12-11T21:28:33.515114",
+    "unique_id": {
+        "CaseID": "C11"
+    },
+    "processing_time": "43"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531999"
+    },
+    "event_time": "2023-12-11T21:29:28.515119",
+    "unique_id": {
+        "CaseID": "C11"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa053199a"
+    },
+    "event_time": "2023-12-11T21:28:27.515126",
+    "unique_id": {
+        "CaseID": "C12"
+    },
+    "processing_time": "40"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa053199b"
+    },
+    "event_time": "2023-12-11T21:28:26.515132",
+    "unique_id": {
+        "CaseID": "C12"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa053199c"
+    },
+    "event_time": "2023-12-11T21:30:30.515139",
+    "unique_id": {
+        "CaseID": "C12"
+    },
+    "processing_time": "36"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa053199d"
+    },
+    "event_time": "2023-12-11T21:29:28.515146",
+    "unique_id": {
+        "CaseID": "C12"
+    },
+    "processing_time": "57"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa053199e"
+    },
+    "event_time": "2023-12-11T21:30:32.515153",
+    "unique_id": {
+        "CaseID": "C13"
+    },
+    "processing_time": "41"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa053199f"
+    },
+    "event_time": "2023-12-11T21:30:31.515161",
+    "unique_id": {
+        "CaseID": "C13"
+    },
+    "processing_time": "20"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319a0"
+    },
+    "event_time": "2023-12-11T21:30:26.515169",
+    "unique_id": {
+        "CaseID": "C13"
+    },
+    "processing_time": "27"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319a1"
+    },
+    "event_time": "2023-12-11T21:30:31.515178",
+    "unique_id": {
+        "CaseID": "C14"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319a2"
+    },
+    "event_time": "2023-12-11T21:28:31.515188",
+    "unique_id": {
+        "CaseID": "C14"
+    },
+    "processing_time": "32"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319a3"
+    },
+    "event_time": "2023-12-11T21:28:28.515197",
+    "unique_id": {
+        "CaseID": "C15"
+    },
+    "processing_time": "27"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319a4"
+    },
+    "event_time": "2023-12-11T21:29:30.515204",
+    "unique_id": {
+        "CaseID": "C15"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319a5"
+    },
+    "event_time": "2023-12-11T21:30:26.515210",
+    "unique_id": {
+        "CaseID": "C16"
+    },
+    "processing_time": "13"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319a6"
+    },
+    "event_time": "2023-12-11T21:28:31.515216",
+    "unique_id": {
+        "CaseID": "C16"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319a7"
+    },
+    "event_time": "2023-12-11T21:29:28.515224",
+    "unique_id": {
+        "CaseID": "C16"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319a8"
+    },
+    "event_time": "2023-12-11T21:29:32.515238",
+    "unique_id": {
+        "CaseID": "C17"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319a9"
+    },
+    "event_time": "2023-12-11T21:28:24.515244",
+    "unique_id": {
+        "CaseID": "C17"
+    },
+    "processing_time": "43"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319aa"
+    },
+    "event_time": "2023-12-11T21:30:27.515250",
+    "unique_id": {
+        "CaseID": "C17"
+    },
+    "processing_time": "35"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319ab"
+    },
+    "event_time": "2023-12-11T21:29:27.515257",
+    "unique_id": {
+        "CaseID": "C18"
+    },
+    "processing_time": "36"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319ac"
+    },
+    "event_time": "2023-12-11T21:29:26.515267",
+    "unique_id": {
+        "CaseID": "C18"
+    },
+    "processing_time": "60"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319ad"
+    },
+    "event_time": "2023-12-11T21:30:31.515275",
+    "unique_id": {
+        "CaseID": "C18"
+    },
+    "processing_time": "37"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319ae"
+    },
+    "event_time": "2023-12-11T21:30:26.515284",
+    "unique_id": {
+        "CaseID": "C19"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319af"
+    },
+    "event_time": "2023-12-11T21:28:26.515289",
+    "unique_id": {
+        "CaseID": "C19"
+    },
+    "processing_time": "46"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319b0"
+    },
+    "event_time": "2023-12-11T21:29:24.515295",
+    "unique_id": {
+        "CaseID": "C19"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319b1"
+    },
+    "event_time": "2023-12-11T21:29:35.515302",
+    "unique_id": {
+        "CaseID": "C19"
+    },
+    "processing_time": "9"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319b2"
+    },
+    "event_time": "2023-12-11T21:28:27.515310",
+    "unique_id": {
+        "CaseID": "C20"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319b3"
+    },
+    "event_time": "2023-12-11T21:29:32.515315",
+    "unique_id": {
+        "CaseID": "C20"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319b4"
+    },
+    "event_time": "2023-12-11T21:30:32.515322",
+    "unique_id": {
+        "CaseID": "C20"
+    },
+    "processing_time": "27"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319b5"
+    },
+    "event_time": "2023-12-11T21:30:25.515328",
+    "unique_id": {
+        "CaseID": "C21"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319b6"
+    },
+    "event_time": "2023-12-11T21:29:24.515334",
+    "unique_id": {
+        "CaseID": "C21"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319b7"
+    },
+    "event_time": "2023-12-11T21:28:33.515341",
+    "unique_id": {
+        "CaseID": "C21"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319b8"
+    },
+    "event_time": "2023-12-11T21:28:24.515349",
+    "unique_id": {
+        "CaseID": "C22"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319b9"
+    },
+    "event_time": "2023-12-11T21:28:26.515357",
+    "unique_id": {
+        "CaseID": "C22"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319ba"
+    },
+    "event_time": "2023-12-11T21:30:25.515365",
+    "unique_id": {
+        "CaseID": "C22"
+    },
+    "processing_time": "5"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319bb"
+    },
+    "event_time": "2023-12-11T21:28:22.515382",
+    "unique_id": {
+        "CaseID": "C23"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319bc"
+    },
+    "event_time": "2023-12-11T21:30:32.515391",
+    "unique_id": {
+        "CaseID": "C23"
+    },
+    "processing_time": "28"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319bd"
+    },
+    "event_time": "2023-12-11T21:28:33.515403",
+    "unique_id": {
+        "CaseID": "C23"
+    },
+    "processing_time": "29"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319be"
+    },
+    "event_time": "2023-12-11T21:28:28.515409",
+    "unique_id": {
+        "CaseID": "C24"
+    },
+    "processing_time": "58"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319bf"
+    },
+    "event_time": "2023-12-11T21:30:28.515417",
+    "unique_id": {
+        "CaseID": "C24"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319c0"
+    },
+    "event_time": "2023-12-11T21:29:29.515426",
+    "unique_id": {
+        "CaseID": "C24"
+    },
+    "processing_time": "24"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319c1"
+    },
+    "event_time": "2023-12-11T21:30:29.515434",
+    "unique_id": {
+        "CaseID": "C25"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319c2"
+    },
+    "event_time": "2023-12-11T21:28:23.515443",
+    "unique_id": {
+        "CaseID": "C25"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319c3"
+    },
+    "event_time": "2023-12-11T21:30:32.515452",
+    "unique_id": {
+        "CaseID": "C25"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319c4"
+    },
+    "event_time": "2023-12-11T21:29:26.515458",
+    "unique_id": {
+        "CaseID": "C25"
+    },
+    "processing_time": "44"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319c5"
+    },
+    "event_time": "2023-12-11T21:29:23.515465",
+    "unique_id": {
+        "CaseID": "C26"
+    },
+    "processing_time": "10"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319c6"
+    },
+    "event_time": "2023-12-11T21:29:23.515474",
+    "unique_id": {
+        "CaseID": "C26"
+    },
+    "processing_time": "17"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319c7"
+    },
+    "event_time": "2023-12-11T21:29:24.515480",
+    "unique_id": {
+        "CaseID": "C26"
+    },
+    "processing_time": "1"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319c8"
+    },
+    "event_time": "2023-12-11T21:29:22.515486",
+    "unique_id": {
+        "CaseID": "C27"
+    },
+    "processing_time": "35"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319c9"
+    },
+    "event_time": "2023-12-11T21:30:26.515493",
+    "unique_id": {
+        "CaseID": "C27"
+    },
+    "processing_time": "23"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319ca"
+    },
+    "event_time": "2023-12-11T21:29:24.515500",
+    "unique_id": {
+        "CaseID": "C27"
+    },
+    "processing_time": "28"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319cb"
+    },
+    "event_time": "2023-12-11T21:29:28.515506",
+    "unique_id": {
+        "CaseID": "C28"
+    },
+    "processing_time": "13"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319cc"
+    },
+    "event_time": "2023-12-11T21:29:32.515512",
+    "unique_id": {
+        "CaseID": "C28"
+    },
+    "processing_time": "16"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319cd"
+    },
+    "event_time": "2023-12-11T21:28:29.515518",
+    "unique_id": {
+        "CaseID": "C28"
+    },
+    "processing_time": "37"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319ce"
+    },
+    "event_time": "2023-12-11T21:28:28.515528",
+    "unique_id": {
+        "CaseID": "C29"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319cf"
+    },
+    "event_time": "2023-12-11T21:29:33.515534",
+    "unique_id": {
+        "CaseID": "C29"
+    },
+    "processing_time": "37"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319d0"
+    },
+    "event_time": "2023-12-11T21:28:25.515582",
+    "unique_id": {
+        "CaseID": "C30"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319d1"
+    },
+    "event_time": "2023-12-11T21:30:24.515591",
+    "unique_id": {
+        "CaseID": "C30"
+    },
+    "processing_time": "52"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319d2"
+    },
+    "event_time": "2023-12-11T21:30:24.515601",
+    "unique_id": {
+        "CaseID": "C30"
+    },
+    "processing_time": "13"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319d3"
+    },
+    "event_time": "2023-12-11T21:29:22.515612",
+    "unique_id": {
+        "CaseID": "C31"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319d4"
+    },
+    "event_time": "2023-12-11T21:28:32.515620",
+    "unique_id": {
+        "CaseID": "C31"
+    },
+    "processing_time": "58"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319d5"
+    },
+    "event_time": "2023-12-11T21:29:27.515628",
+    "unique_id": {
+        "CaseID": "C31"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319d6"
+    },
+    "event_time": "2023-12-11T21:29:33.515634",
+    "unique_id": {
+        "CaseID": "C31"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319d7"
+    },
+    "event_time": "2023-12-11T21:29:26.515648",
+    "unique_id": {
+        "CaseID": "C32"
+    },
+    "processing_time": "12"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319d8"
+    },
+    "event_time": "2023-12-11T21:30:25.515655",
+    "unique_id": {
+        "CaseID": "C32"
+    },
+    "processing_time": "57"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319d9"
+    },
+    "event_time": "2023-12-11T21:28:26.515664",
+    "unique_id": {
+        "CaseID": "C32"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319da"
+    },
+    "event_time": "2023-12-11T21:30:31.515671",
+    "unique_id": {
+        "CaseID": "C32"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319db"
+    },
+    "event_time": "2023-12-11T21:29:27.515678",
+    "unique_id": {
+        "CaseID": "C33"
+    },
+    "processing_time": "52"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319dc"
+    },
+    "event_time": "2023-12-11T21:29:32.515686",
+    "unique_id": {
+        "CaseID": "C33"
+    },
+    "processing_time": "10"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319dd"
+    },
+    "event_time": "2023-12-11T21:28:24.515694",
+    "unique_id": {
+        "CaseID": "C33"
+    },
+    "processing_time": "26"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319de"
+    },
+    "event_time": "2023-12-11T21:29:31.515702",
+    "unique_id": {
+        "CaseID": "C34"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319df"
+    },
+    "event_time": "2023-12-11T21:30:29.515709",
+    "unique_id": {
+        "CaseID": "C34"
+    },
+    "processing_time": "35"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319e0"
+    },
+    "event_time": "2023-12-11T21:29:27.515720",
+    "unique_id": {
+        "CaseID": "C35"
+    },
+    "processing_time": "44"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319e1"
+    },
+    "event_time": "2023-12-11T21:28:27.515726",
+    "unique_id": {
+        "CaseID": "C35"
+    },
+    "processing_time": "53"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319e2"
+    },
+    "event_time": "2023-12-11T21:30:24.515732",
+    "unique_id": {
+        "CaseID": "C35"
+    },
+    "processing_time": "15"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319e3"
+    },
+    "event_time": "2023-12-11T21:30:26.515740",
+    "unique_id": {
+        "CaseID": "C35"
+    },
+    "processing_time": "57"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319e4"
+    },
+    "event_time": "2023-12-11T21:29:23.515747",
+    "unique_id": {
+        "CaseID": "C36"
+    },
+    "processing_time": "15"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319e5"
+    },
+    "event_time": "2023-12-11T21:28:26.515752",
+    "unique_id": {
+        "CaseID": "C36"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319e6"
+    },
+    "event_time": "2023-12-11T21:28:28.515758",
+    "unique_id": {
+        "CaseID": "C36"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319e7"
+    },
+    "event_time": "2023-12-11T21:30:35.515764",
+    "unique_id": {
+        "CaseID": "C36"
+    },
+    "processing_time": "20"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319e8"
+    },
+    "event_time": "2023-12-11T21:30:31.515772",
+    "unique_id": {
+        "CaseID": "C37"
+    },
+    "processing_time": "16"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319e9"
+    },
+    "event_time": "2023-12-11T21:30:27.515777",
+    "unique_id": {
+        "CaseID": "C37"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319ea"
+    },
+    "event_time": "2023-12-11T21:28:24.515785",
+    "unique_id": {
+        "CaseID": "C38"
+    },
+    "processing_time": "27"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319eb"
+    },
+    "event_time": "2023-12-11T21:28:31.515795",
+    "unique_id": {
+        "CaseID": "C38"
+    },
+    "processing_time": "57"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319ec"
+    },
+    "event_time": "2023-12-11T21:28:33.515801",
+    "unique_id": {
+        "CaseID": "C38"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319ed"
+    },
+    "event_time": "2023-12-11T21:28:26.515810",
+    "unique_id": {
+        "CaseID": "C39"
+    },
+    "processing_time": "18"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319ee"
+    },
+    "event_time": "2023-12-11T21:28:28.515816",
+    "unique_id": {
+        "CaseID": "C39"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319ef"
+    },
+    "event_time": "2023-12-11T21:29:31.515822",
+    "unique_id": {
+        "CaseID": "C39"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319f0"
+    },
+    "event_time": "2023-12-11T21:30:25.515827",
+    "unique_id": {
+        "CaseID": "C39"
+    },
+    "processing_time": "24"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319f1"
+    },
+    "event_time": "2023-12-11T21:28:27.515836",
+    "unique_id": {
+        "CaseID": "C40"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319f2"
+    },
+    "event_time": "2023-12-11T21:29:30.515842",
+    "unique_id": {
+        "CaseID": "C40"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319f3"
+    },
+    "event_time": "2023-12-11T21:30:24.515848",
+    "unique_id": {
+        "CaseID": "C40"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319f4"
+    },
+    "event_time": "2023-12-11T21:30:32.515857",
+    "unique_id": {
+        "CaseID": "C41"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319f5"
+    },
+    "event_time": "2023-12-11T21:30:31.515865",
+    "unique_id": {
+        "CaseID": "C41"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319f6"
+    },
+    "event_time": "2023-12-11T21:30:33.515870",
+    "unique_id": {
+        "CaseID": "C41"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319f7"
+    },
+    "event_time": "2023-12-11T21:30:23.515877",
+    "unique_id": {
+        "CaseID": "C42"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319f8"
+    },
+    "event_time": "2023-12-11T21:29:31.515885",
+    "unique_id": {
+        "CaseID": "C42"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319f9"
+    },
+    "event_time": "2023-12-11T21:30:30.515894",
+    "unique_id": {
+        "CaseID": "C42"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319fa"
+    },
+    "event_time": "2023-12-11T21:30:27.515901",
+    "unique_id": {
+        "CaseID": "C42"
+    },
+    "processing_time": "17"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319fb"
+    },
+    "event_time": "2023-12-11T21:30:22.515909",
+    "unique_id": {
+        "CaseID": "C43"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa05319fc"
+    },
+    "event_time": "2023-12-11T21:30:33.515915",
+    "unique_id": {
+        "CaseID": "C43"
+    },
+    "processing_time": "23"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa05319fd"
+    },
+    "event_time": "2023-12-11T21:28:29.515924",
+    "unique_id": {
+        "CaseID": "C43"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa05319fe"
+    },
+    "event_time": "2023-12-11T21:29:35.515931",
+    "unique_id": {
+        "CaseID": "C43"
+    },
+    "processing_time": "9"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa05319ff"
+    },
+    "event_time": "2023-12-11T21:28:31.515938",
+    "unique_id": {
+        "CaseID": "C44"
+    },
+    "processing_time": "48"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a00"
+    },
+    "event_time": "2023-12-11T21:29:26.515943",
+    "unique_id": {
+        "CaseID": "C44"
+    },
+    "processing_time": "50"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a01"
+    },
+    "event_time": "2023-12-11T21:28:25.515951",
+    "unique_id": {
+        "CaseID": "C44"
+    },
+    "processing_time": "7"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a02"
+    },
+    "event_time": "2023-12-11T21:28:32.515957",
+    "unique_id": {
+        "CaseID": "C44"
+    },
+    "processing_time": "40"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a03"
+    },
+    "event_time": "2023-12-11T21:28:22.515964",
+    "unique_id": {
+        "CaseID": "C45"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a04"
+    },
+    "event_time": "2023-12-11T21:29:23.515969",
+    "unique_id": {
+        "CaseID": "C45"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a05"
+    },
+    "event_time": "2023-12-11T21:29:28.515977",
+    "unique_id": {
+        "CaseID": "C45"
+    },
+    "processing_time": "28"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a06"
+    },
+    "event_time": "2023-12-11T21:29:28.515985",
+    "unique_id": {
+        "CaseID": "C45"
+    },
+    "processing_time": "5"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a07"
+    },
+    "event_time": "2023-12-11T21:29:23.516022",
+    "unique_id": {
+        "CaseID": "C46"
+    },
+    "processing_time": "10"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a08"
+    },
+    "event_time": "2023-12-11T21:30:29.516032",
+    "unique_id": {
+        "CaseID": "C46"
+    },
+    "processing_time": "40"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a09"
+    },
+    "event_time": "2023-12-11T21:28:29.516039",
+    "unique_id": {
+        "CaseID": "C46"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a0a"
+    },
+    "event_time": "2023-12-11T21:28:31.516048",
+    "unique_id": {
+        "CaseID": "C46"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a0b"
+    },
+    "event_time": "2023-12-11T21:28:26.516058",
+    "unique_id": {
+        "CaseID": "C47"
+    },
+    "processing_time": "7"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a0c"
+    },
+    "event_time": "2023-12-11T21:28:23.516066",
+    "unique_id": {
+        "CaseID": "C47"
+    },
+    "processing_time": "57"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a0d"
+    },
+    "event_time": "2023-12-11T21:28:31.516072",
+    "unique_id": {
+        "CaseID": "C47"
+    },
+    "processing_time": "28"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a0e"
+    },
+    "event_time": "2023-12-11T21:30:26.516079",
+    "unique_id": {
+        "CaseID": "C48"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a0f"
+    },
+    "event_time": "2023-12-11T21:29:27.516087",
+    "unique_id": {
+        "CaseID": "C48"
+    },
+    "processing_time": "47"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a10"
+    },
+    "event_time": "2023-12-11T21:29:28.516093",
+    "unique_id": {
+        "CaseID": "C48"
+    },
+    "processing_time": "21"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a11"
+    },
+    "event_time": "2023-12-11T21:29:30.516100",
+    "unique_id": {
+        "CaseID": "C49"
+    },
+    "processing_time": "44"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a12"
+    },
+    "event_time": "2023-12-11T21:30:32.516106",
+    "unique_id": {
+        "CaseID": "C49"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a13"
+    },
+    "event_time": "2023-12-11T21:30:26.516113",
+    "unique_id": {
+        "CaseID": "C50"
+    },
+    "processing_time": "7"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a14"
+    },
+    "event_time": "2023-12-11T21:30:25.516119",
+    "unique_id": {
+        "CaseID": "C50"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a15"
+    },
+    "event_time": "2023-12-11T21:28:26.516126",
+    "unique_id": {
+        "CaseID": "C50"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a16"
+    },
+    "event_time": "2023-12-11T21:29:27.516132",
+    "unique_id": {
+        "CaseID": "C51"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a17"
+    },
+    "event_time": "2023-12-11T21:28:33.516138",
+    "unique_id": {
+        "CaseID": "C51"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a18"
+    },
+    "event_time": "2023-12-11T21:29:29.516146",
+    "unique_id": {
+        "CaseID": "C51"
+    },
+    "processing_time": "7"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a19"
+    },
+    "event_time": "2023-12-11T21:28:32.516153",
+    "unique_id": {
+        "CaseID": "C51"
+    },
+    "processing_time": "10"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a1a"
+    },
+    "event_time": "2023-12-11T21:30:31.516162",
+    "unique_id": {
+        "CaseID": "C52"
+    },
+    "processing_time": "23"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a1b"
+    },
+    "event_time": "2023-12-11T21:29:32.516167",
+    "unique_id": {
+        "CaseID": "C52"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a1c"
+    },
+    "event_time": "2023-12-11T21:28:31.516173",
+    "unique_id": {
+        "CaseID": "C52"
+    },
+    "processing_time": "52"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a1d"
+    },
+    "event_time": "2023-12-11T21:28:26.516178",
+    "unique_id": {
+        "CaseID": "C52"
+    },
+    "processing_time": "40"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a1e"
+    },
+    "event_time": "2023-12-11T21:30:23.516185",
+    "unique_id": {
+        "CaseID": "C53"
+    },
+    "processing_time": "60"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a1f"
+    },
+    "event_time": "2023-12-11T21:30:31.516192",
+    "unique_id": {
+        "CaseID": "C53"
+    },
+    "processing_time": "18"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a20"
+    },
+    "event_time": "2023-12-11T21:29:27.516199",
+    "unique_id": {
+        "CaseID": "C54"
+    },
+    "processing_time": "1"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a21"
+    },
+    "event_time": "2023-12-11T21:30:24.516205",
+    "unique_id": {
+        "CaseID": "C54"
+    },
+    "processing_time": "43"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a22"
+    },
+    "event_time": "2023-12-11T21:30:32.516210",
+    "unique_id": {
+        "CaseID": "C54"
+    },
+    "processing_time": "48"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a23"
+    },
+    "event_time": "2023-12-11T21:30:27.516218",
+    "unique_id": {
+        "CaseID": "C54"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a24"
+    },
+    "event_time": "2023-12-11T21:29:25.516226",
+    "unique_id": {
+        "CaseID": "C55"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a25"
+    },
+    "event_time": "2023-12-11T21:29:29.516231",
+    "unique_id": {
+        "CaseID": "C55"
+    },
+    "processing_time": "47"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a26"
+    },
+    "event_time": "2023-12-11T21:28:25.516238",
+    "unique_id": {
+        "CaseID": "C55"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a27"
+    },
+    "event_time": "2023-12-11T21:30:33.516244",
+    "unique_id": {
+        "CaseID": "C55"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a28"
+    },
+    "event_time": "2023-12-11T21:30:22.516255",
+    "unique_id": {
+        "CaseID": "C56"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a29"
+    },
+    "event_time": "2023-12-11T21:29:23.516261",
+    "unique_id": {
+        "CaseID": "C56"
+    },
+    "processing_time": "28"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a2a"
+    },
+    "event_time": "2023-12-11T21:28:27.516267",
+    "unique_id": {
+        "CaseID": "C56"
+    },
+    "processing_time": "27"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a2b"
+    },
+    "event_time": "2023-12-11T21:30:24.516275",
+    "unique_id": {
+        "CaseID": "C57"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a2c"
+    },
+    "event_time": "2023-12-11T21:29:32.516280",
+    "unique_id": {
+        "CaseID": "C57"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a2d"
+    },
+    "event_time": "2023-12-11T21:29:26.516288",
+    "unique_id": {
+        "CaseID": "C57"
+    },
+    "processing_time": "43"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a2e"
+    },
+    "event_time": "2023-12-11T21:30:32.516294",
+    "unique_id": {
+        "CaseID": "C57"
+    },
+    "processing_time": "26"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a2f"
+    },
+    "event_time": "2023-12-11T21:30:32.516303",
+    "unique_id": {
+        "CaseID": "C58"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a30"
+    },
+    "event_time": "2023-12-11T21:30:31.516309",
+    "unique_id": {
+        "CaseID": "C58"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a31"
+    },
+    "event_time": "2023-12-11T21:29:29.516314",
+    "unique_id": {
+        "CaseID": "C58"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a32"
+    },
+    "event_time": "2023-12-11T21:29:26.516321",
+    "unique_id": {
+        "CaseID": "C59"
+    },
+    "processing_time": "12"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a33"
+    },
+    "event_time": "2023-12-11T21:29:25.516327",
+    "unique_id": {
+        "CaseID": "C59"
+    },
+    "processing_time": "46"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a34"
+    },
+    "event_time": "2023-12-11T21:28:24.516333",
+    "unique_id": {
+        "CaseID": "C60"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a35"
+    },
+    "event_time": "2023-12-11T21:30:27.516339",
+    "unique_id": {
+        "CaseID": "C60"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a36"
+    },
+    "event_time": "2023-12-11T21:29:34.516344",
+    "unique_id": {
+        "CaseID": "C60"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a37"
+    },
+    "event_time": "2023-12-11T21:29:26.516350",
+    "unique_id": {
+        "CaseID": "C60"
+    },
+    "processing_time": "28"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a38"
+    },
+    "event_time": "2023-12-11T21:29:22.516424",
+    "unique_id": {
+        "CaseID": "C61"
+    },
+    "processing_time": "27"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a39"
+    },
+    "event_time": "2023-12-11T21:30:27.516430",
+    "unique_id": {
+        "CaseID": "C61"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a3a"
+    },
+    "event_time": "2023-12-11T21:30:25.516436",
+    "unique_id": {
+        "CaseID": "C61"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a3b"
+    },
+    "event_time": "2023-12-11T21:30:26.516443",
+    "unique_id": {
+        "CaseID": "C62"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a3c"
+    },
+    "event_time": "2023-12-11T21:30:27.516450",
+    "unique_id": {
+        "CaseID": "C62"
+    },
+    "processing_time": "38"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a3d"
+    },
+    "event_time": "2023-12-11T21:28:33.516457",
+    "unique_id": {
+        "CaseID": "C62"
+    },
+    "processing_time": "26"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a3e"
+    },
+    "event_time": "2023-12-11T21:28:27.516463",
+    "unique_id": {
+        "CaseID": "C63"
+    },
+    "processing_time": "15"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a3f"
+    },
+    "event_time": "2023-12-11T21:30:32.516468",
+    "unique_id": {
+        "CaseID": "C63"
+    },
+    "processing_time": "33"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a40"
+    },
+    "event_time": "2023-12-11T21:28:26.516473",
+    "unique_id": {
+        "CaseID": "C63"
+    },
+    "processing_time": "13"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a41"
+    },
+    "event_time": "2023-12-11T21:29:25.516479",
+    "unique_id": {
+        "CaseID": "C63"
+    },
+    "processing_time": "53"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a42"
+    },
+    "event_time": "2023-12-11T21:30:31.516485",
+    "unique_id": {
+        "CaseID": "C64"
+    },
+    "processing_time": "10"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a43"
+    },
+    "event_time": "2023-12-11T21:30:31.516492",
+    "unique_id": {
+        "CaseID": "C64"
+    },
+    "processing_time": "39"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a44"
+    },
+    "event_time": "2023-12-11T21:28:33.516497",
+    "unique_id": {
+        "CaseID": "C64"
+    },
+    "processing_time": "12"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a45"
+    },
+    "event_time": "2023-12-11T21:29:26.516502",
+    "unique_id": {
+        "CaseID": "C64"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a46"
+    },
+    "event_time": "2023-12-11T21:29:22.516509",
+    "unique_id": {
+        "CaseID": "C65"
+    },
+    "processing_time": "60"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a47"
+    },
+    "event_time": "2023-12-11T21:28:23.516515",
+    "unique_id": {
+        "CaseID": "C65"
+    },
+    "processing_time": "40"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a48"
+    },
+    "event_time": "2023-12-11T21:28:29.516521",
+    "unique_id": {
+        "CaseID": "C65"
+    },
+    "processing_time": "10"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a49"
+    },
+    "event_time": "2023-12-11T21:30:28.516526",
+    "unique_id": {
+        "CaseID": "C65"
+    },
+    "processing_time": "29"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a4a"
+    },
+    "event_time": "2023-12-11T21:29:23.516533",
+    "unique_id": {
+        "CaseID": "C66"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a4b"
+    },
+    "event_time": "2023-12-11T21:28:32.516539",
+    "unique_id": {
+        "CaseID": "C66"
+    },
+    "processing_time": "20"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a4c"
+    },
+    "event_time": "2023-12-11T21:29:34.516544",
+    "unique_id": {
+        "CaseID": "C66"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a4d"
+    },
+    "event_time": "2023-12-11T21:29:31.516550",
+    "unique_id": {
+        "CaseID": "C67"
+    },
+    "processing_time": "42"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a4e"
+    },
+    "event_time": "2023-12-11T21:28:24.516558",
+    "unique_id": {
+        "CaseID": "C67"
+    },
+    "processing_time": "33"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a4f"
+    },
+    "event_time": "2023-12-11T21:29:25.516563",
+    "unique_id": {
+        "CaseID": "C67"
+    },
+    "processing_time": "36"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a50"
+    },
+    "event_time": "2023-12-11T21:29:26.516568",
+    "unique_id": {
+        "CaseID": "C67"
+    },
+    "processing_time": "42"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a51"
+    },
+    "event_time": "2023-12-11T21:29:23.516575",
+    "unique_id": {
+        "CaseID": "C68"
+    },
+    "processing_time": "31"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a52"
+    },
+    "event_time": "2023-12-11T21:30:33.516580",
+    "unique_id": {
+        "CaseID": "C68"
+    },
+    "processing_time": "29"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a53"
+    },
+    "event_time": "2023-12-11T21:29:33.516585",
+    "unique_id": {
+        "CaseID": "C68"
+    },
+    "processing_time": "33"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a54"
+    },
+    "event_time": "2023-12-11T21:30:29.516594",
+    "unique_id": {
+        "CaseID": "C69"
+    },
+    "processing_time": "46"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a55"
+    },
+    "event_time": "2023-12-11T21:29:25.516599",
+    "unique_id": {
+        "CaseID": "C69"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a56"
+    },
+    "event_time": "2023-12-11T21:30:29.516604",
+    "unique_id": {
+        "CaseID": "C69"
+    },
+    "processing_time": "24"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a57"
+    },
+    "event_time": "2023-12-11T21:29:29.516609",
+    "unique_id": {
+        "CaseID": "C69"
+    },
+    "processing_time": "50"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a58"
+    },
+    "event_time": "2023-12-11T21:28:23.516615",
+    "unique_id": {
+        "CaseID": "C70"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a59"
+    },
+    "event_time": "2023-12-11T21:30:28.516622",
+    "unique_id": {
+        "CaseID": "C70"
+    },
+    "processing_time": "7"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a5a"
+    },
+    "event_time": "2023-12-11T21:28:28.516628",
+    "unique_id": {
+        "CaseID": "C70"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a5b"
+    },
+    "event_time": "2023-12-11T21:28:22.516635",
+    "unique_id": {
+        "CaseID": "C71"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a5c"
+    },
+    "event_time": "2023-12-11T21:30:28.516640",
+    "unique_id": {
+        "CaseID": "C71"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a5d"
+    },
+    "event_time": "2023-12-11T21:28:32.516647",
+    "unique_id": {
+        "CaseID": "C71"
+    },
+    "processing_time": "59"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a5e"
+    },
+    "event_time": "2023-12-11T21:29:25.516652",
+    "unique_id": {
+        "CaseID": "C71"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a5f"
+    },
+    "event_time": "2023-12-11T21:30:23.516658",
+    "unique_id": {
+        "CaseID": "C72"
+    },
+    "processing_time": "46"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a60"
+    },
+    "event_time": "2023-12-11T21:29:25.516664",
+    "unique_id": {
+        "CaseID": "C72"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a61"
+    },
+    "event_time": "2023-12-11T21:30:24.516671",
+    "unique_id": {
+        "CaseID": "C72"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a62"
+    },
+    "event_time": "2023-12-11T21:30:25.516679",
+    "unique_id": {
+        "CaseID": "C72"
+    },
+    "processing_time": "43"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a63"
+    },
+    "event_time": "2023-12-11T21:28:27.516685",
+    "unique_id": {
+        "CaseID": "C73"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a64"
+    },
+    "event_time": "2023-12-11T21:29:31.516690",
+    "unique_id": {
+        "CaseID": "C73"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a65"
+    },
+    "event_time": "2023-12-11T21:29:31.516697",
+    "unique_id": {
+        "CaseID": "C73"
+    },
+    "processing_time": "15"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a66"
+    },
+    "event_time": "2023-12-11T21:30:31.516703",
+    "unique_id": {
+        "CaseID": "C74"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a67"
+    },
+    "event_time": "2023-12-11T21:28:25.516710",
+    "unique_id": {
+        "CaseID": "C74"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a68"
+    },
+    "event_time": "2023-12-11T21:30:24.516717",
+    "unique_id": {
+        "CaseID": "C74"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a69"
+    },
+    "event_time": "2023-12-11T21:30:26.516723",
+    "unique_id": {
+        "CaseID": "C74"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a6a"
+    },
+    "event_time": "2023-12-11T21:30:30.516729",
+    "unique_id": {
+        "CaseID": "C75"
+    },
+    "processing_time": "54"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a6b"
+    },
+    "event_time": "2023-12-11T21:30:26.516744",
+    "unique_id": {
+        "CaseID": "C75"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a6c"
+    },
+    "event_time": "2023-12-11T21:29:24.516751",
+    "unique_id": {
+        "CaseID": "C75"
+    },
+    "processing_time": "47"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a6d"
+    },
+    "event_time": "2023-12-11T21:29:26.516756",
+    "unique_id": {
+        "CaseID": "C75"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a6e"
+    },
+    "event_time": "2023-12-11T21:30:24.516763",
+    "unique_id": {
+        "CaseID": "C76"
+    },
+    "processing_time": "16"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a6f"
+    },
+    "event_time": "2023-12-11T21:29:30.516768",
+    "unique_id": {
+        "CaseID": "C76"
+    },
+    "processing_time": "24"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a70"
+    },
+    "event_time": "2023-12-11T21:29:27.516773",
+    "unique_id": {
+        "CaseID": "C76"
+    },
+    "processing_time": "50"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a71"
+    },
+    "event_time": "2023-12-11T21:29:27.516778",
+    "unique_id": {
+        "CaseID": "C76"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a72"
+    },
+    "event_time": "2023-12-11T21:30:29.516786",
+    "unique_id": {
+        "CaseID": "C77"
+    },
+    "processing_time": "52"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a73"
+    },
+    "event_time": "2023-12-11T21:30:29.516792",
+    "unique_id": {
+        "CaseID": "C77"
+    },
+    "processing_time": "4"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a74"
+    },
+    "event_time": "2023-12-11T21:29:26.516797",
+    "unique_id": {
+        "CaseID": "C77"
+    },
+    "processing_time": "60"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a75"
+    },
+    "event_time": "2023-12-11T21:28:24.516803",
+    "unique_id": {
+        "CaseID": "C78"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a76"
+    },
+    "event_time": "2023-12-11T21:29:32.516808",
+    "unique_id": {
+        "CaseID": "C78"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a77"
+    },
+    "event_time": "2023-12-11T21:29:27.516814",
+    "unique_id": {
+        "CaseID": "C78"
+    },
+    "processing_time": "58"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a78"
+    },
+    "event_time": "2023-12-11T21:30:26.516820",
+    "unique_id": {
+        "CaseID": "C79"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a79"
+    },
+    "event_time": "2023-12-11T21:29:28.516825",
+    "unique_id": {
+        "CaseID": "C79"
+    },
+    "processing_time": "60"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a7a"
+    },
+    "event_time": "2023-12-11T21:29:34.516830",
+    "unique_id": {
+        "CaseID": "C79"
+    },
+    "processing_time": "26"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a7b"
+    },
+    "event_time": "2023-12-11T21:29:29.516836",
+    "unique_id": {
+        "CaseID": "C80"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a7c"
+    },
+    "event_time": "2023-12-11T21:29:30.516842",
+    "unique_id": {
+        "CaseID": "C80"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a7d"
+    },
+    "event_time": "2023-12-11T21:30:24.516847",
+    "unique_id": {
+        "CaseID": "C80"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a7e"
+    },
+    "event_time": "2023-12-11T21:30:32.516853",
+    "unique_id": {
+        "CaseID": "C81"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a7f"
+    },
+    "event_time": "2023-12-11T21:28:31.516858",
+    "unique_id": {
+        "CaseID": "C81"
+    },
+    "processing_time": "49"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a80"
+    },
+    "event_time": "2023-12-11T21:29:23.516863",
+    "unique_id": {
+        "CaseID": "C82"
+    },
+    "processing_time": "1"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a81"
+    },
+    "event_time": "2023-12-11T21:30:29.516868",
+    "unique_id": {
+        "CaseID": "C82"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a82"
+    },
+    "event_time": "2023-12-11T21:28:23.516875",
+    "unique_id": {
+        "CaseID": "C83"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a83"
+    },
+    "event_time": "2023-12-11T21:30:29.516881",
+    "unique_id": {
+        "CaseID": "C83"
+    },
+    "processing_time": "16"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a84"
+    },
+    "event_time": "2023-12-11T21:30:34.516888",
+    "unique_id": {
+        "CaseID": "C83"
+    },
+    "processing_time": "16"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a85"
+    },
+    "event_time": "2023-12-11T21:28:23.516895",
+    "unique_id": {
+        "CaseID": "C84"
+    },
+    "processing_time": "30"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a86"
+    },
+    "event_time": "2023-12-11T21:30:26.516900",
+    "unique_id": {
+        "CaseID": "C84"
+    },
+    "processing_time": "39"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a87"
+    },
+    "event_time": "2023-12-11T21:30:24.516906",
+    "unique_id": {
+        "CaseID": "C84"
+    },
+    "processing_time": "33"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a88"
+    },
+    "event_time": "2023-12-11T21:30:33.516910",
+    "unique_id": {
+        "CaseID": "C84"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a89"
+    },
+    "event_time": "2023-12-11T21:30:23.516917",
+    "unique_id": {
+        "CaseID": "C85"
+    },
+    "processing_time": "23"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a8a"
+    },
+    "event_time": "2023-12-11T21:28:26.516924",
+    "unique_id": {
+        "CaseID": "C86"
+    },
+    "processing_time": "12"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a8b"
+    },
+    "event_time": "2023-12-11T21:28:28.516929",
+    "unique_id": {
+        "CaseID": "C86"
+    },
+    "processing_time": "5"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a8c"
+    },
+    "event_time": "2023-12-11T21:28:26.516934",
+    "unique_id": {
+        "CaseID": "C86"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a8d"
+    },
+    "event_time": "2023-12-11T21:28:32.516940",
+    "unique_id": {
+        "CaseID": "C87"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a8e"
+    },
+    "event_time": "2023-12-11T21:30:23.516946",
+    "unique_id": {
+        "CaseID": "C87"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a8f"
+    },
+    "event_time": "2023-12-11T21:29:34.516951",
+    "unique_id": {
+        "CaseID": "C87"
+    },
+    "processing_time": "23"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a90"
+    },
+    "event_time": "2023-12-11T21:29:32.516956",
+    "unique_id": {
+        "CaseID": "C87"
+    },
+    "processing_time": "47"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a91"
+    },
+    "event_time": "2023-12-11T21:28:27.516962",
+    "unique_id": {
+        "CaseID": "C88"
+    },
+    "processing_time": "9"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a92"
+    },
+    "event_time": "2023-12-11T21:29:25.516967",
+    "unique_id": {
+        "CaseID": "C88"
+    },
+    "processing_time": "22"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a93"
+    },
+    "event_time": "2023-12-11T21:28:27.516972",
+    "unique_id": {
+        "CaseID": "C88"
+    },
+    "processing_time": "45"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a94"
+    },
+    "event_time": "2023-12-11T21:28:33.516977",
+    "unique_id": {
+        "CaseID": "C88"
+    },
+    "processing_time": "52"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a95"
+    },
+    "event_time": "2023-12-11T21:30:25.516983",
+    "unique_id": {
+        "CaseID": "C89"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a96"
+    },
+    "event_time": "2023-12-11T21:30:33.516988",
+    "unique_id": {
+        "CaseID": "C89"
+    },
+    "processing_time": "51"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a97"
+    },
+    "event_time": "2023-12-11T21:30:29.516993",
+    "unique_id": {
+        "CaseID": "C89"
+    },
+    "processing_time": "60"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a98"
+    },
+    "event_time": "2023-12-11T21:28:29.516998",
+    "unique_id": {
+        "CaseID": "C89"
+    },
+    "processing_time": "53"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a99"
+    },
+    "event_time": "2023-12-11T21:29:28.517006",
+    "unique_id": {
+        "CaseID": "C90"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a9a"
+    },
+    "event_time": "2023-12-11T21:29:28.517011",
+    "unique_id": {
+        "CaseID": "C90"
+    },
+    "processing_time": "56"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531a9b"
+    },
+    "event_time": "2023-12-11T21:28:29.517019",
+    "unique_id": {
+        "CaseID": "C90"
+    },
+    "processing_time": "18"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a9c"
+    },
+    "event_time": "2023-12-11T21:29:26.517025",
+    "unique_id": {
+        "CaseID": "C91"
+    },
+    "processing_time": "57"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531a9d"
+    },
+    "event_time": "2023-12-11T21:28:26.517030",
+    "unique_id": {
+        "CaseID": "C91"
+    },
+    "processing_time": "58"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531a9e"
+    },
+    "event_time": "2023-12-11T21:29:32.517035",
+    "unique_id": {
+        "CaseID": "C91"
+    },
+    "processing_time": "32"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531a9f"
+    },
+    "event_time": "2023-12-11T21:29:24.517041",
+    "unique_id": {
+        "CaseID": "C92"
+    },
+    "processing_time": "18"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531aa0"
+    },
+    "event_time": "2023-12-11T21:28:27.517047",
+    "unique_id": {
+        "CaseID": "C92"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531aa1"
+    },
+    "event_time": "2023-12-11T21:28:32.517053",
+    "unique_id": {
+        "CaseID": "C92"
+    },
+    "processing_time": "35"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531aa2"
+    },
+    "event_time": "2023-12-11T21:29:31.517060",
+    "unique_id": {
+        "CaseID": "C93"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531aa3"
+    },
+    "event_time": "2023-12-11T21:28:29.517064",
+    "unique_id": {
+        "CaseID": "C93"
+    },
+    "processing_time": "20"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531aa4"
+    },
+    "event_time": "2023-12-11T21:28:28.517072",
+    "unique_id": {
+        "CaseID": "C93"
+    },
+    "processing_time": "11"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531aa5"
+    },
+    "event_time": "2023-12-11T21:29:28.517077",
+    "unique_id": {
+        "CaseID": "C93"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531aa6"
+    },
+    "event_time": "2023-12-11T21:28:26.517083",
+    "unique_id": {
+        "CaseID": "C94"
+    },
+    "processing_time": "18"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531aa7"
+    },
+    "event_time": "2023-12-11T21:30:23.517088",
+    "unique_id": {
+        "CaseID": "C94"
+    },
+    "processing_time": "41"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531aa8"
+    },
+    "event_time": "2023-12-11T21:29:26.517093",
+    "unique_id": {
+        "CaseID": "C94"
+    },
+    "processing_time": "52"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531aa9"
+    },
+    "event_time": "2023-12-11T21:30:33.517098",
+    "unique_id": {
+        "CaseID": "C94"
+    },
+    "processing_time": "55"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531aaa"
+    },
+    "event_time": "2023-12-11T21:28:25.517104",
+    "unique_id": {
+        "CaseID": "C95"
+    },
+    "processing_time": "3"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531aab"
+    },
+    "event_time": "2023-12-11T21:30:30.517109",
+    "unique_id": {
+        "CaseID": "C95"
+    },
+    "processing_time": "50"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531aac"
+    },
+    "event_time": "2023-12-11T21:29:28.517116",
+    "unique_id": {
+        "CaseID": "C95"
+    },
+    "processing_time": "37"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531aad"
+    },
+    "event_time": "2023-12-11T21:28:30.517122",
+    "unique_id": {
+        "CaseID": "C96"
+    },
+    "processing_time": "44"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531aae"
+    },
+    "event_time": "2023-12-11T21:29:28.517127",
+    "unique_id": {
+        "CaseID": "C96"
+    },
+    "processing_time": "29"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531aaf"
+    },
+    "event_time": "2023-12-11T21:28:32.517132",
+    "unique_id": {
+        "CaseID": "C96"
+    },
+    "processing_time": "34"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531ab0"
+    },
+    "event_time": "2023-12-11T21:29:30.517140",
+    "unique_id": {
+        "CaseID": "C96"
+    },
+    "processing_time": "42"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531ab1"
+    },
+    "event_time": "2023-12-11T21:30:31.517146",
+    "unique_id": {
+        "CaseID": "C97"
+    },
+    "processing_time": "2"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531ab2"
+    },
+    "event_time": "2023-12-11T21:29:25.517151",
+    "unique_id": {
+        "CaseID": "C97"
+    },
+    "processing_time": "25"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531ab3"
+    },
+    "event_time": "2023-12-11T21:30:30.517155",
+    "unique_id": {
+        "CaseID": "C97"
+    },
+    "processing_time": "50"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Completion",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531ab4"
+    },
+    "event_time": "2023-12-11T21:28:25.517163",
+    "unique_id": {
+        "CaseID": "C98"
+    },
+    "processing_time": "14"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531ab5"
+    },
+    "event_time": "2023-12-11T21:29:26.517168",
+    "unique_id": {
+        "CaseID": "C98"
+    },
+    "processing_time": "13"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531ab6"
+    },
+    "event_time": "2023-12-11T21:30:33.517173",
+    "unique_id": {
+        "CaseID": "C98"
+    },
+    "processing_time": "29"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531ab7"
+    },
+    "event_time": "2023-12-11T21:28:28.517180",
+    "unique_id": {
+        "CaseID": "C98"
+    },
+    "processing_time": "6"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Enter To Sort",
+        "task_name": "T3",
+        "task_id": "65777f787533df8aa0531ab8"
+    },
+    "event_time": "2023-12-11T21:28:27.517186",
+    "unique_id": {
+        "CaseID": "C99"
+    },
+    "processing_time": "46"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531ab9"
+    },
+    "event_time": "2023-12-11T21:28:25.517191",
+    "unique_id": {
+        "CaseID": "C99"
+    },
+    "processing_time": "19"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Data Collection",
+        "task_name": "T1",
+        "task_id": "65777f787533df8aa0531aba"
+    },
+    "event_time": "2023-12-11T21:30:22.517197",
+    "unique_id": {
+        "CaseID": "C100"
+    },
+    "processing_time": "12"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Task Initiation",
+        "task_name": "T2",
+        "task_id": "65777f787533df8aa0531abb"
+    },
+    "event_time": "2023-12-11T21:28:30.517202",
+    "unique_id": {
+        "CaseID": "C100"
+    },
+    "processing_time": "8"
+},
+{
+    "activity_specifications": {
+        "activity_alias_name": "Review and Validate",
+        "task_name": "T4",
+        "task_id": "65777f787533df8aa0531abc"
+    },
+    "event_time": "2023-12-11T21:30:31.517208",
+    "unique_id": {
+        "CaseID": "C100"
+    },
+    "processing_time": "51"
+}
